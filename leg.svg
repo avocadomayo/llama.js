@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="llama" width="105px" height="206px" viewBox="0 0 105 206" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>llama</title>
+    <desc>Created with Sketch.</desc>
+    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path id="leg" d="M1.16796875,0.7109375 C1.16796875,0.7109375 16.4882812,47.0195313 31.5703125,69.3476563 C41.625,84.2330729 50.1223958,106.063802 57.0625,134.839844 L66.2929687,205.121094 L83.6796875,205.121094 C88.4739583,188.464844 88.4739583,165.03776 83.6796875,134.839844 C78.8854167,104.641927 78.8854167,76.6523438 83.6796875,50.8710938 L103.402344,0.7109375 C35.2460937,0.7109375 1.16796875,0.7109375 1.16796875,0.7109375 Z" id="leg" stroke="#979797" fill="#C6AC96"></path>
+    </g>
+</svg>

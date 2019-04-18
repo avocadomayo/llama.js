@@ -1,0 +1,24 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  background: lavender;
+  width: 100%;
+  height: 100%;
+}
+
+div.llama-container {
+  margin-top: 50px;
+  padding: 30px;
+  /* background: lavender; */
+  /* border: solid 1px #666; */
+}
+
+svg {
+  display: block;
+  margin: auto;
+}
